@@ -16,4 +16,8 @@ UK-registered software company (Companies House no. 17474995) building focused, 
 | **Platform** (`core-*`, `design-system`) | Shared payments, email, admin dashboard and design system. |
 
 ## Contact
-Contact: TBC
+Website: https://jagatitlimited.com
+
+Email: support@jagatitlimited.com
+
+Registered office: 164 High Street, London Colney, St Albans, Hertfordshire, AL2 1QF
